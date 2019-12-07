@@ -1,6 +1,6 @@
 ---
 title: "Mindynamics"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/gathering.jpeg'
 description: "Software Development Consultancy"
 type: page
 ---
