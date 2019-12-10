@@ -3,7 +3,7 @@ title: "Services"
 menu: main
 ---
 
-* App creation *(Ruby, Crystal, C++, C#, Elixir)**
+* App creation *(Ruby, Crystal, C++, C#, Elixir)*
 * Established codebase development
 * Game development *(Unreal Engine, Unity, GameMaker Studio, SDL)*
 * Web development *(Rails, Sinatra, Amber, Kemal, Phoenix)*
